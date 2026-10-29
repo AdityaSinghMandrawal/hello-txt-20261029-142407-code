@@ -1,9 +1,3 @@
-# loopcode
+# hello-txt-20261029-142407
 
-Simple Python loop examples (`for`, `while`, nested, list iteration).
-
-## Run
-
-```bash
-python3 loopcode.py
-```
+Brand-new repo with a new txt file: `hello_20261029-142407.txt`
